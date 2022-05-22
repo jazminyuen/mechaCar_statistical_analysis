@@ -56,9 +56,12 @@ With a sample mean of 1496.14 and a p-value of 0.4, lower than our significance 
 
 #### Is MechaCar safer than its competitors?
 
-Null hypothesis: 
+- Null hypothesis: 
+
 If MechaCar is not safer than its competitors, then the mean of MechaCar safety ratings is not higher than the mean of competitor safety ratings.
-Alternative hypothesis: 
+
+- Alternative hypothesis: 
+
 If MechaCar is safer than its competitors, then the mean of MechaCar safety ratings is higher than the mean of competitor safety ratings.
 
-The chosen statistical test is the two-sample t-test. This will test if there is a statistical difference between the means of the two independent variables - the MechaCar safety ratings and the competitor safety ratings. Since the hypothesis is one-tailed, this will test if the mean of MechaCar safety ratings is greater than the mean of the competitor safety ratings or not. The safety rating data is numerical and continuous. It must be verified that the sample sizes are large and the data is normally distributed with similar variance.
+- The chosen statistical test is the two-sample t-test. This will test if there is a statistical difference between the means of the two independent variables - the MechaCar safety ratings and the competitor safety ratings. Since the hypothesis is one-tailed, this will test if the mean of MechaCar safety ratings is greater than the mean of the competitor safety ratings or not. The safety rating data is numerical and continuous. It must be verified that the sample sizes are large and the data is normally distributed with similar variance.
